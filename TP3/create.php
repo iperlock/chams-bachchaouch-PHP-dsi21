@@ -8,6 +8,10 @@
     <title>Document</title>
 </head>
 <body>
+<div class="container-fluid">
+        <div class="jumbotron mt-3">
+            <h1>Create student.</h1>
+        </div>
 <div class="container">
 <div class="row">
 <div class="col-md-8">

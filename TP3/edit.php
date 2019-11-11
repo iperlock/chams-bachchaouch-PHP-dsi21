@@ -8,6 +8,10 @@
     <title>Document</title>
 </head>
 <body>
+<div class="container-fluid">
+        <div class="jumbotron mt-3">
+            <h1>Edit student</h1>
+        </div>
  <?php include 'dbconnexion.php';
  $data = $rep->fetch(); ?>
 <div class="container">
